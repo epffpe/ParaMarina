@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=RF-GND Pin=C29-1
+Removed Pin From Net: NetName=A-GND Pin=C30-1
+Change Component DesignItemId : Designator=C28 Old DesignItemId=C New DesignItemId=10uF_0805
+Change Component Description : Designator=C28 Old Description=CONDENSADOR New Description=CAP CER 10UF 10V Y5V 0805
+Added Pin To Net: NetName=RF-GND Pin=C26-1
+Added Pin To Net: NetName=A-GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C30-1

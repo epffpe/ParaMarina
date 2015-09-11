@@ -1,0 +1,25 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=DIGIKEY~String~DIGIKEY~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=MOUSER~String~MOUSER~100|Field=Quantity~Integer~Quantity~100|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PFC-01v28.02.PrjPCB|ReportField=ProjectFullPath~C:\Documents and Settings\Administrador\Escritorio\PFCfinal\PFC-01v28.02.PrjPCB|ReportField=Title~Bill of Materials For Project [PFC-01v28.02.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~95|ReportField=ReportTime~11:43:57|ReportField=ReportDate~02/03/2011|ReportField=ReportDateTime~02/03/2011 11:43:57|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~02/03/2011|ReportField=CurrentTime~11:41:33|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Documents and Settings\Administrador\Escritorio\PFCfinal\Sheet2.0.SchDoc|ReportField=DocumentName~Sheet2.0.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~25/02/2011|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.73|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=15|PrintQuality=600|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PFC-01v28.02.PrjPCB|ReportField=DataSourceFullPath~C:\Documents and Settings\Administrador\Escritorio\PFCfinal\PFC-01v28.02.PrjPCB
+Ant. 2.45G|ANTENNA CHIP 2.4GHZ|A1|712-1005-1-ND|ANTENNA CHIP|2450AT18A100||1
+Batttery|Header, 3-Pin|Bat1||HDR1X3|Header 3||1
+C|CONDENSADOR|C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C28, CB1, CB2, CB3, CB4, CX1, CX2, CX3, CX4||0402|C||33
+100nF_0805|CAP CER 100PF 630V X7R 0805|C26, C27, C29, C30|478-3352-1-ND|0805|100nF_0805||4
+Conector Antena|CONN MW COAXIAL WITH SWITCH|CON1||MM8430-2600_Coaxial Connectors|CON ANT-MM8430-2600RA1||1
+Diodo Led|Typical INFRARED GaAs LED|D1, D2, D3, D4|160-1186-1-ND|Diode Led|LTST-C230CKT||4
+Ferrita|Chip Ferrite Beads|F1||0603|BLM21AH102SN1||1
+BQ24031|IC PWR MANAGEMENT SYSTEM 20-QFN|IC1|296-21372-1-ND|BQ24031|BQ24031||1
+CAMSHOT|CONN MONO JACK 2.5MM PCB MNT|J1|CP-M2509N-ND|MJ-2509N|MJ-2509N_1||1
+22nH_0603|CER INDUCTOR 22NH 0603|L1, L2, L3, L4, L5, L6|712-1438-1-ND|0603|22nH_0603||6
+Programador|Header, 3-Pin, Dual row|P1||HDR2X3|Header 3X2||1
+Programador|Header, 5-Pin, Dual row|P2||HDR2X5|Header 5X2||1
+Pulsador|SWITCH TACT 6X3.5MM H=4.3MM 180G|P3|EG2511-ND|PUSH-BUTTON-W|PUSHBUTTON||1
+USB-AB|CONN RECEPT USB 5POS RT ANG SMD|P4|WM17122CT-ND|USB-MINI-AB-SMT|WM1722||1
+R 0402|RESISTENCIA 0402 SMD|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29||0603|R 0402||22
+16.9kohm-0805|RES 16.9K OHM 1/8W 1% 0805 SMD|R13, R14, R15, R16, R17, R18, R19|RHM16.9KCRCT-ND|0805|16.9kohm-0805||7
+BALUN|FILTER BALUN CER CHIP 2.4GHZ|T1|712-1068-1-ND|BALUN|2450FB39B100E||1
+TESTPOINT|Punto de Test|T2||TESTPOINT|TESTPOINT||1
+USB|IC USB-TO-UART BRIDGE 28MLP|U1|336-1160-ND|QFN28_5X5|CP2102||1
+XMEGA|MCU AVR 64K FLASH 1.6V 100-TQFP|U2|ATXMEGA64A1-AU-ND|Quad100|ATXMEGA64A1||1
+RF TRAN|IC TXRX ZIGBEE/802.15.4 32QFN|U3|AT86RF230-ZU-ND|QFN32_50|AT86RF231||1
+TVS|TVS AVAL DIODE ARRAY 3 CH SOT143|U4|F2715CT-ND|SOT-143|SP0503BAHTG||1
+TPS77633D|IC 3.3V 500MA LDO REG 8-SOIC|U5|296-2782-5-ND|TPS77633D|TPS77633D||1
+Xtal TSX-4025|Cristal 16Mhz|Xtal1, Xtal2||TSX-4025|Xtal TSX-4025||2

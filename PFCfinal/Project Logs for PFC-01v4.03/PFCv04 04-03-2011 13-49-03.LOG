@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C28-2
+Change Component Footprint: Designator=C28 Old Footprint=0402 New Footprint=0805
+Change Component Comment : Designator=C28 Old Comment=C New Comment=10uF
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=NetC28_2 Pin=R22-1
+Added Net: Name=NetC28_2
